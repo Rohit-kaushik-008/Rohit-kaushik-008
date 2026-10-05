@@ -88,22 +88,6 @@ I'm a **full-stack developer from India** who enjoys turning ideas into useful, 
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik-008&theme=github-compact&hide_border=true&area=true" alt="Rohit's GitHub contribution activity graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-kaushik-008&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Rohit's GitHub trophies"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
