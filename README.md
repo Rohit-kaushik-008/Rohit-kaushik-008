@@ -1,26 +1,127 @@
-<h1 align="center">Hi 👋, I'm ROHIT KAUSHIK</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-kaushik-008&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-kaushik-008" /> </p>
+# Hi, I'm Rohit Kaushik 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-kaushik-008" alt="rohit-kaushik-008" /></a> </p>
+### Full-Stack Developer • Building practical products • Learning every day
 
-- 🌱 I’m currently learning **Next.js**
-
-- 📫 How to reach me **rohit.code.works@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohitkaushik008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkaushik008" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kaushik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gamerkrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamerkrown" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/rohit-kaushik-008">
+    <img src="https://img.shields.io/badge/GitHub-Rohit--Kaushik--008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/rohit%20kaushik">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rohitkaushik008">
+    <img src="https://img.shields.io/badge/Twitter-@rohitkaushik008-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.leetcode.com/gamerkrown">
+    <img src="https://img.shields.io/badge/LeetCode-gamerkrown-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=rohit-kaushik-008&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-kaushik-008&show_icons=true&locale=en&layout=compact" alt="rohit-kaushik-008" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&locale=en" alt="rohit-kaushik-008" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&" alt="rohit-kaushik-008" /></p>
+## 👨‍💻 About Me
+
+I'm a **full-stack developer from India** who enjoys turning ideas into useful, well-structured web applications.
+
+- 🌱 Currently learning **Next.js**
+- 🧩 Interested in building clean, maintainable full-stack applications
+- 🛠️ Enjoy working across the frontend, backend, database, and API layers
+- 📈 Continuously improving my engineering fundamentals
+- 📫 Reach me at **rohit.code.works@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind" alt="Frontend technologies"/>
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies"/>
+</p>
+
+### Tools & Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,python" alt="Tools and languages"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true" alt="Rohit's GitHub statistics"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-kaushik-008&layout=compact&langs_count=8&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-kaushik-008&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-kaushik-008&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Rohit's most used languages"/>
+  </picture>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&theme=default&hide_border=true" alt="Rohit's GitHub contribution streak"/>
+  </picture>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik-008&theme=github-compact&hide_border=true&area=true" alt="Rohit's GitHub contribution activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-kaushik-008&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Rohit's GitHub trophies"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:rohit.code.works@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohit.code.works%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/rohit%20kaushik">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/gamerkrown">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+</div>
