@@ -19,50 +19,50 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rohit-kaushik-008&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **full-stack developer from India** who enjoys turning ideas into useful, well-structured web applications.
-
-- 🌱 Currently learning **Next.js**
-- 🧩 Interested in building clean, maintainable full-stack applications
-- 🛠️ Enjoy working across the frontend, backend, database, and API layers
-- 📈 Continuously improving my engineering fundamentals
-- 📫 Reach me at **rohit.code.works@gmail.com**
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind" alt="Frontend technologies"/>
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies"/>
-</p>
-
-### Tools & Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,python" alt="Tools and languages"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <picture>
+<img src="https://komarev.com/ghpvc/?username=rohit-kaushik-008&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/> 
+ 
+</div> 
+ 
+--- 
+ 
+## 👨‍💻 About Me 
+ 
+I'm a **full-stack developer from India** who enjoys turning ideas into useful, well-structured web applications. 
+ 
+- 🌱 Currently learning **Next.js** 
+- 🧩 Interested in building clean, maintainable full-stack applications 
+- 🛠️ Enjoy working across the frontend, backend, database, and API layers 
+- 📈 Continuously improving my engineering fundamentals 
+- 📫 Reach me at **rohit.code.works@gmail.com** 
+ 
+--- 
+ 
+## 🧰 Tech Stack 
+ 
+### Frontend 
+ 
+<p> 
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,redux,nextjs,tailwind" alt="Frontend technologies"/> 
+</p> 
+ 
+### Backend & Database 
+ 
+<p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies"/> 
+</p> 
+ 
+### Tools & Languages 
+ 
+<p> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python,cpp,js" alt="Tools and languages"/> 
+</p> 
+ 
+--- 
+ 
+## 📊 GitHub Analytics 
+ 
+<p align="center"> 
+  <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohit-kaushik-008&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true" alt="Rohit's GitHub statistics"/>
@@ -84,6 +84,22 @@ I'm a **full-stack developer from India** who enjoys turning ideas into useful, 
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&theme=default&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kaushik-008&theme=default&hide_border=true" alt="Rohit's GitHub contribution streak"/>
   </picture>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kaushik-008&theme=github-compact&hide_border=true&area=true" alt="Rohit's GitHub contribution activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-kaushik-008&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Rohit's GitHub trophies"/>
 </p>
 
 ---
